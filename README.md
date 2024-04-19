@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/sagarmaiti26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarmaiti26" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar.maiti26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar.maiti26" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/sagarmaiti277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/sagarmaiti277" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/sagarmaiti277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/sagarmaiti277" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
