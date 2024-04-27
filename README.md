@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js,**
 
-- 📫 How to reach me **sagarmaiti277@gmail.com**
+- 📫 Reach me **sagarmaiti277@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1orbSoxa6PjPXTHFf8yyfE4nEWL201C1E/view?usp=sharing](https://drive.google.com/file/d/1orbSoxa6PjPXTHFf8yyfE4nEWL201C1E/view?usp=sharing)
+- 📄 Know about my experiences [Portfolio](https://myportfolio-sagar.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
