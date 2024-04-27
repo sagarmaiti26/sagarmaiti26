@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagarmaiti26](https://github.com/sagarmaiti26)
 
-- 💬 Ask me about **react.js, next.js, node.js, express.js,**
+- 💬 Ask me about **React.js, Next.js, Node.js, Express.js,**
 
 - 📫 How to reach me **sagarmaiti277@gmail.com**
 
