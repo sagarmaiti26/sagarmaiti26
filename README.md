@@ -2,9 +2,13 @@
 <h3 align="center">A Passionate FullStack Developer From India</h3>
 
 - 🌱 I’m currently working in **Next.js**
+  
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js**
+  
 -  🎆 I'm Open for New Opportunities.
+- 
 - 📫 Reach me **sagarmaiti277@gmail.com**
+  
 - 👨‍💻 All of my projects are available at [Portfolio](https://myportfolio-sagar.vercel.app/)
 <br>
 <h2 align="center">Languages and Tools:</h2>
