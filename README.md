@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working in **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sagarmaiti26](https://github.com/sagarmaiti26)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sagarmaiti26)
 
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js**
 
