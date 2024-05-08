@@ -25,9 +25,9 @@
 <p align="left">Hello World!!</p>
 
 ###
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -51,7 +51,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -76,24 +76,6 @@
 
 ###
 
-<h3 align="left">Profile Stat :</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarmaiti26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarmaiti26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=sagarmaiti26&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-[](https://github-readme-stats.vercel.app/api?username=sagarmaiti26&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[](https://github-readme-streak-stats.herokuapp.com/?user=sagarmaiti26&theme=radical&hide_border=false)<br/>
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmaiti26&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=sagarmaiti26&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sagarmaiti26&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h3 align="center">Profile Stat :</h3>
 
 ###
