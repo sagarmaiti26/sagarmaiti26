@@ -14,20 +14,15 @@
 - 📄 Know about my experiences [Portfolio](https://myportfolio-sagar.vercel.app/)
 
 <h2 align="center">Connect with me:</h2>
-<br><br>
+<br>
 <p align="center">
 <a href="https://twitter.com/sagarmaiti26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarmaiti26" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/sagar.maiti26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar.maiti26" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/user/sagarmaiti277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/sagarmaiti277" height="30" width="40" /></a>
 </p>
 <br><br>
-###
-
-<h2 align="center">"There's No Place Like 127.0.0.1"</h2>
-<br><br>
-###
 <h2 align="center">Languages and Tools:</h2>
-<br><br>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="35" />
@@ -50,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-###
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -73,15 +68,12 @@
   <img width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
-
-
-###
+<br>
 
 <h2 align="center">Profile Stat :</h2>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarmaiti26&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmaiti26&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarmaiti26&theme=radical&hide_border=false" height="150" alt="languages graph" />
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarmaiti26&theme=radical&hide_border=false" height="150" alt="languages graph" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmaiti26&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  />
 </div>
 ###
