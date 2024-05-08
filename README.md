@@ -78,4 +78,10 @@
 
 <h3 align="center">Profile Stat :</h3>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarmaiti26&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarmaiti26&theme=radical&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmaiti26&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  />
+</div>
 ###
