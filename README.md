@@ -14,6 +14,7 @@
 - 📄 Know about my experiences [Portfolio](https://myportfolio-sagar.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
+<br><br><br>
 <p align="left">
 <a href="https://twitter.com/sagarmaiti26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarmaiti26" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar.maiti26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar.maiti26" height="30" width="40" /></a>
@@ -22,11 +23,11 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<h2 align="center">Languages and Tools:</h2>
 
 ###
-<h3 align="center">Languages and Tools:</h3>
-
+<h2 align="center">Languages and Tools:</h2>
+<br><br><br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="35" />
@@ -76,7 +77,7 @@
 
 ###
 
-<h3 align="center">Profile Stat :</h3>
+<h2 align="center">Profile Stat :</h2>
 
 
 <div align="center">
