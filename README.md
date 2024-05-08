@@ -5,11 +5,11 @@
   
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js**
   
--  🎆 I'm Open for New Opportunities.
-- 
+- 🎆 I'm Open for New Opportunities.
+  
 - 📫 Reach me **sagarmaiti277@gmail.com**
   
-- 👨‍💻 All of my projects are available at [Portfolio](https://myportfolio-sagar.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://myportfolio-sagar.vercel.app/)
 <br>
 <h2 align="center">Languages and Tools:</h2>
 <br>
