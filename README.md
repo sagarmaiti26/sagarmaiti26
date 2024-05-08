@@ -1,26 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A Passionate FullStack Developer From India</h3>
 
 - 🌱 I’m currently working in **Next.js**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sagarmaiti26)
-
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js**
-
-- 📫 Reach me **sagarmaiti277@gmail.com**
-  
 -  🎆 I'm Open for New Opportunities.
-
-- 📄 Know about my experiences [Portfolio](https://myportfolio-sagar.vercel.app/)
-
+- 📫 Reach me **sagarmaiti277@gmail.com**
+- 👨‍💻 All of my projects are available at [Portfolio](https://myportfolio-sagar.vercel.app/)
+<br>
 <h2 align="center">Connect with me:</h2>
 <br>
 <p align="center">
 <a href="https://twitter.com/sagarmaiti26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarmaiti26" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/sagar.maiti26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar.maiti26" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/user/sagarmaiti277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/sagarmaiti277" height="30" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/sagar.maiti26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="sagar.maiti26" height="30" width="40" /></a>
+
 </p>
-<br><br>
+<br>
 <h2 align="center">Languages and Tools:</h2>
 <br>
 <div align="center">
