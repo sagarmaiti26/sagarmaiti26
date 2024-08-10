@@ -11,7 +11,6 @@
   
 - 👨‍💻 All of my projects are available at my [Portfolio](https://myportfolio-sagar.vercel.app/)
 
-- ![Profile Views](https://komarev.com/ghpvc/?username=sagarmaiti26)
 <br>
 <h2 align="center">Languages and Tools:</h2>
 <br>
